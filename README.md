@@ -19,9 +19,9 @@ This is an Employee Management project test case from WorkSmartly
 ## Instructions for tester
 - Clone this repo
 - Execute command "cp .env.example .env"
+- Run "composer install"
 - Run "php artisan key:generate"
 - Create Mailtrap.io account (if not have), and put all credential inside .env file mail configuration
-- Run "composer install"
 - Run "npm install" & "npm run dev"
 - Create a new MySQL Database named "case-study"
 - Run "php artisan migrate"
