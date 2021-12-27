@@ -27,6 +27,8 @@ This is an Employee Management project test case from WorkSmartly
 - Run "php artisan migrate"
 - Host the project using "php artisan serve"
 
+####################################################################################################
+
 # Case Study
 Create an Employee Management project.
 
