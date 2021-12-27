@@ -1,3 +1,32 @@
+# Notes From Developer
+This is an Employee Management project test case from WorkSmartly
+
+## Chosen Case Study: Backend Engineer
+- Developed using Laravel PHP Framework
+- Frontend created using Livewire and Bootstrap 5 only
+
+## Backend Library
+- Laravel Enums (Bensampo)
+- Doctrine/Dbal
+- Mailtrap.io (Email Testing)
+
+## Frontend Library
+- Laravel/ui
+- Laravel Livewire
+- Bootstrap 5
+- jQuery
+
+## Instructions for tester
+- Clone this repo
+- Execute command "cp .env.example .env"
+- Run "php artisan key:generate"
+- Create Mailtrap.io account (if not have), and put all credential inside .env file mail configuration
+- Run "composer install"
+- Run "npm install" & "npm run dev"
+- Create a new MySQL Database named "case-study"
+- Run "php artisan migrate"
+- Host the project using "php artisan serve"
+
 # Case Study
 Create an Employee Management project.
 
