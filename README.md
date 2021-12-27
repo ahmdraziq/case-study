@@ -21,7 +21,7 @@ This is an Employee Management project test case from WorkSmartly
 - Execute command "cp .env.example .env"
 - Run "composer install"
 - Run "php artisan key:generate"
-- Create Mailtrap.io account (if not have), and put all credential inside .env file mail configuration
+- Create Mailtrap.io account (if not have), and put all credential (make sure to choose Laravel 7+ option) inside .env file mail configuration
 - Run "npm install" & "npm run dev"
 - Create a new MySQL Database named "case-study"
 - Run "php artisan migrate"
